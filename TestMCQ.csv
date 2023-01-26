@@ -1,0 +1,13 @@
+﻿Astronomy;Which is the 3rd planet of the solar system?;Mercury;Earth;Mars;Earth
+Astronomy;The unit of measuring distances between the stars is known as;Cosmic kilometer;Stellar mile;Light year;Light year
+Astronomy;The orbits of planets around the Sun, or of satellites around the Earth can be;Circular and elliptic;Parabolic and hyperbolic;Elliptic and parabolic;Circular and elliptic
+Astronomy;Which one of the following planets takes the same number of days for rotation and revolution?;Mars;Mercury;Jupiter;Mercury
+Programming;Qual das seguintes funções em C não é um ciclo?;Switch;For;While;Switch
+Programming;Which of the following functions disconnects the stream from the file pointer.;fremove();fclose();remove();fclose()
+Programming;In the standard library of C programming language, which of the following header file is designed for basic mathematical operations?;stdio.h;conio.h;math.h;math.h
+Programming;Which of the following statements should be used to obtain a remainder after dividing 3.14 by 2.1 ?;rem = 3.14 % 2.1;"rem = fmod(3.14, 2.1);";Remainder cannot be obtain in floating point division.;"rem = fmod(3.14, 2.1)"
+Programming;If the two strings are identical, then strcmp() function returns;-1;1;0;0
+Programming;How will you print \n on the screen?;"printf(""\n"")";printf('\n');"printf(""\\n"")";"printf(""\\n"")"
+Programming;In C, if you pass an array as an argument to a function, what actually gets passed?;Value of elements in array;Base address of the array;First element of the array;Base address of the array
+Programming;"What is the output of this statement ""printf(""%d"", (a++))""?";The value of (a + 1);The current value of a;Garbage;The current value of a
+Programming;Which one of the following is a loop construct that will always be executed once?;do while;While;for;do while
